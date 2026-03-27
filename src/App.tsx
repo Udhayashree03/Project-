@@ -112,7 +112,7 @@ export default function App() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="fixed inset-0 z-0 bg-cover bg-center"
+            className="fixed inset-0 z-0 bg-neutral-900 bg-cover bg-center"
             style={{ backgroundImage: 'url("https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahendra_Singh_Dhoni_January_2016_%28cropped%29.jpg")' }}
           >
             {/* Mock Status Bar */}
