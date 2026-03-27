@@ -1,0 +1,5 @@
+{
+  "name": "Instant Accepter",
+  "description": "A background automation tool for service drivers to automatically accept incoming orders for Ola, Uber, Rapido, and Namma Yatri.",
+  "requestFramePermissions": []
+}
